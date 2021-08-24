@@ -19,3 +19,10 @@ To test this simple interface:
 - run `python interface.py`
 - pack this code as an executable file if you like 
 
+## Reach me
+
+junko.lin@yahoo.com
+
+We express our great thanks to the following repos:
+https://github.com/filipradenovic/cnnimageretrieval-pytorch
+https://github.com/kayzhu/LSHash
