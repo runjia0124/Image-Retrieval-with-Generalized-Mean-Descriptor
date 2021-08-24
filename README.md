@@ -26,4 +26,5 @@ junko.lin@yahoo.com
 We express our great thanks to the following repos:
 
 https://github.com/filipradenovic/cnnimageretrieval-pytorch
+
 https://github.com/kayzhu/LSHash
