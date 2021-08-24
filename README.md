@@ -1,11 +1,11 @@
 # Image-Retrieval-with-Generalized-Mean-Descriptor
 A simple content-based image retrieval system.
 
-![](https://raw.githubusercontent.com/runjia0124/Image-Retrieval-with-Generalized-Mean-Descriptor/archive/retrieval.png)
+![](https://raw.githubusercontent.com/runjia0124/Image-Retrieval-with-Generalized-Mean-Descriptor/main/archive/retrieval.png)
 
 ## What we use
 - Generalized Mean Descriptor (TPAMI'18)
-- CNN 
+- resnet50 + whitening 
 - LSHash
 
 
